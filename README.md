@@ -1,6 +1,6 @@
 ![Adalab](https://beta.adalab.es/resources/images/adalab-logo-155x61-bg-white.png)
 
-# Evaluación Final Módulo 2 Adalab de Patricia Vaquero Sáenz
+# Patricia Vaquero Sáenz
 
 Este repo tiene incluído el Starter Kit creado en **node y gulp**. ¿Y qué es un Starter kit? Pues es una **plantilla de proyecto con funcionalidades preinstaladas y preconfiguradas**.
 
